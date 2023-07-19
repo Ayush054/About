@@ -55,7 +55,7 @@ p{
 .skill-row
 {
     width: 50%;
-margin: 100px auto 100px auto;
+margin: 50px auto 100px auto;
 text-align: left;
 }
     .top-cloud
@@ -80,7 +80,7 @@ margin-right:30px ;}
 margin:auto;}
 .contact-me
 {width:50%;
-margin: 40px auto 40px;}
+margin: 30px auto 40px;}
 .btn {
     background: #609BDD;
     background-image: -webkit-linear-gradient(top, #609BDD, #204E97);
